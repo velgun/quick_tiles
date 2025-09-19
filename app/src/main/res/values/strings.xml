@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Tiles</string>
+    <string name="usb_debugging">Usb Debugging</string>
+    <string name="developer_options">Developer Options</string>
+</resources>
